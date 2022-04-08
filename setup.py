@@ -5,7 +5,7 @@ setup(name='cbpi4_compressorActor',
       description='CraftBeerPi Plugin for Compressor actors',
       author='Pascal Scholz',
       author_email='pascal1404@gmx.de',
-      url='',
+      url='https://github.com/pascal1404/cbpi4_compressorActor',
       include_package_data=True,
       package_data={
         # If any package contains *.txt or *.rst files, include them:
